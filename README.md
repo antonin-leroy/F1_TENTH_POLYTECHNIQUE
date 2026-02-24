@@ -1,3 +1,15 @@
-## This is a legacy repo with old labs. The new labs in ROS2 are [here](https://github.com/f1tenth/f1tenth_labs_openrepo).
+# F1/10 Autonomous Racing - École Polytechnique
 
-All labs for F1TENTH Autonomous Racing Course. See f1tenth.org for more information.   
+Ce dépôt contient l'ensemble des travaux pratiques et le projet final réalisés dans le cadre du cours de robotique à l'**École Polytechnique**.
+
+## 📌 Présentation
+L'objectif de ce projet est de programmer une voiture de course autonome à l'échelle 1/10 capable de naviguer à haute vitesse dans des environnements complexes en utilisant **ROS** (Robot Operating System).
+
+### 🛠 Compétences mises en œuvre :
+* **Perception :** Traitement des données LiDAR et détection de marqueurs (AR Tags).
+* **Navigation :** Implémentation d'algorithmes de suivi de mur, Gap Follow, et Pure Pursuit.
+* **Planification :** Évitement d'obstacles et planification de trajectoire avec RRT/RRT*.
+* **Localisation :** Utilisation de SLAM (Cartographer) et scan matching.
+
+## 📊 Présentation du Projet (Slides)
+[Télécharger la présentation PDF](./nom_de_ton_fichier.pdf)
