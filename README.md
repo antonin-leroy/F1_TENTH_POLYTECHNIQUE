@@ -12,4 +12,4 @@ L'objectif de ce projet est de programmer une voiture de course autonome à l'é
 * **Localisation :** Utilisation de SLAM (Cartographer) et scan matching.
 
 ## 📊 Présentation du Projet (Slides)
-[Télécharger la présentation PDF](./MODALROBOTIQUE.pdf)
+[La présentation PDF](./MODALROBOTIQUE.pdf)
